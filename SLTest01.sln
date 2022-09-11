@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShop", "WebShop\WebShop.csproj", "{05A9505B-B79F-4B4A-A0EB-259CA2C845A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShopTests", "WebShopTests\WebShopTests.csproj", "{7B8B551B-E84C-4073-90DB-485786C4246A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A9505B-B79F-4B4A-A0EB-259CA2C845A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A9505B-B79F-4B4A-A0EB-259CA2C845A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A9505B-B79F-4B4A-A0EB-259CA2C845A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A9505B-B79F-4B4A-A0EB-259CA2C845A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8B551B-E84C-4073-90DB-485786C4246A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8B551B-E84C-4073-90DB-485786C4246A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8B551B-E84C-4073-90DB-485786C4246A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8B551B-E84C-4073-90DB-485786C4246A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
